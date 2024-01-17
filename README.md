@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksv007
 - 👀 I’m interested in Post Quantum Cryptography
-- 🌱 I’m currently learning Hash based signature scheme 
+- 🌱 I’m currently learning Hash and Lattice based cryptography
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
